@@ -1,0 +1,10 @@
+C:\Users\Marco\Desktop\Personal Prjs\ExcelFilmManager\ExcelFilmManager\ExcelFilmManager\bin\Debug\ExcelFilmManager.exe.config
+C:\Users\Marco\Desktop\Personal Prjs\ExcelFilmManager\ExcelFilmManager\ExcelFilmManager\bin\Debug\ExcelFilmManager.exe
+C:\Users\Marco\Desktop\Personal Prjs\ExcelFilmManager\ExcelFilmManager\ExcelFilmManager\bin\Debug\ExcelFilmManager.pdb
+C:\Users\Marco\Desktop\Personal Prjs\ExcelFilmManager\ExcelFilmManager\ExcelFilmManager\obj\Debug\ExcelFilmManager.csprojAssemblyReference.cache
+C:\Users\Marco\Desktop\Personal Prjs\ExcelFilmManager\ExcelFilmManager\ExcelFilmManager\obj\Debug\ExcelFilmManager.FormMain.resources
+C:\Users\Marco\Desktop\Personal Prjs\ExcelFilmManager\ExcelFilmManager\ExcelFilmManager\obj\Debug\ExcelFilmManager.Properties.Resources.resources
+C:\Users\Marco\Desktop\Personal Prjs\ExcelFilmManager\ExcelFilmManager\ExcelFilmManager\obj\Debug\ExcelFilmManager.csproj.GenerateResource.cache
+C:\Users\Marco\Desktop\Personal Prjs\ExcelFilmManager\ExcelFilmManager\ExcelFilmManager\obj\Debug\ExcelFilmManager.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Desktop\Personal Prjs\ExcelFilmManager\ExcelFilmManager\ExcelFilmManager\obj\Debug\ExcelFilmManager.exe
+C:\Users\Marco\Desktop\Personal Prjs\ExcelFilmManager\ExcelFilmManager\ExcelFilmManager\obj\Debug\ExcelFilmManager.pdb
